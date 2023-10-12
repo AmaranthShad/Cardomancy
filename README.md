@@ -9,7 +9,8 @@ and now you want all of them closer at hand? Then *Cardomancy* is for you!
 ##
 ~ Users can friend other users, send messages, and view each other's collections! 
 Users can also send trade requests, and sort their own collections to ensure they meet standards!
-##
+
+
 ~ Want a specific card, but you can't remember the name? No worries! Cardomancy offers 
 a whole selection of search options and parameters including CMC, EDH Rank, Collector #'s, and more.
 
